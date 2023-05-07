@@ -19,6 +19,8 @@ VS C++ Build Tools
 - Install the package by running npm install
 - - Run script npm start or node frontrun.js to start the frontrunner
 
+#(if you want to run in windows just install nodejs for your ease)
+
 
 
 #Support network (preconfigure by yourself)
