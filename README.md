@@ -1,4 +1,6 @@
 # mempool-frontrun-bot-bsc-sniper
+# BSC PRECONFIGURED AS OF MOMENT - highly recommended for new user/beginners becauce fees in ETH are very high!
+
 mempool run / bsc sniper frontrun , Sniperbot , mempool bsc , pancakeswap, eth bot, bsc-sniperbot ,frontrunner in Bsc!! 🚀 🚀 🚀🚀
 ![pic meta](https://user-images.githubusercontent.com/132803510/236659636-beb63de8-1eb6-45a9-a279-af5a0da67631.png)
 
@@ -11,8 +13,15 @@ A mempool (frontrun) sniper bot with lots of features for Binance Smart Chain (B
 Node and NPM
 VS C++ Build Tools
 
+## How to run the bot?
+- Edit the .env setting by your account private key 
+- Frontrunner bot is preconfigured for Pancakeswap on BSC
+- Install the package by running npm install
+- - Run script npm start or node frontrun.js to start the frontrunner
 
-Support network (preconfigure by yourself)
+
+
+#Support network (preconfigure by yourself)
 mainnet
 ethereum (ETH)
 binance smart chain (BSC)
