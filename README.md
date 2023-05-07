@@ -1,4 +1,4 @@
-# mempool-frontrun-bot-bsc-sniper
+# mempool-frontrun-bot-bsc-sniper 🚀🚀🚀
 # BSC PRECONFIGURED AS OF MOMENT - highly recommended for new user/beginners becauce fees in ETH are very high!
 
 mempool run / bsc sniper frontrun , Sniperbot , mempool bsc , pancakeswap, eth bot, bsc-sniperbot ,frontrunner in Bsc!! 🚀 🚀 🚀🚀
